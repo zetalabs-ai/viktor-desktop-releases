@@ -2,15 +2,15 @@
 
 This repository hosts release artifacts only (GitHub Releases); no source code lives here.
 
-Current version: **0.1.1615**, published 2026-11-02 15:21 UTC from [`zetalabs-ai/zeta`](https://github.com/zetalabs-ai/zeta) run [#1615](https://github.com/zetalabs-ai/zeta/actions/runs/41468103273).
+Current version: **0.1.1957**, published 2026-11-05 08:52 UTC from [`zetalabs-ai/zeta`](https://github.com/zetalabs-ai/zeta) run [#1957](https://github.com/zetalabs-ai/zeta/actions/runs/41995987833).
 
 ## Install
 
 | Platform | Download |
 | --- | --- |
-| macOS (Apple Silicon) | [Viktor.dmg](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1615/Viktor_0.1.1615_aarch64.dmg) |
-| Windows (x64) | [Viktor setup.exe](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1615/Viktor_0.1.1615_x64-setup.exe) |
-| Linux | [AppImage](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1615/Viktor_0.1.1615_amd64.AppImage) · [deb](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1615/Viktor_0.1.1615_amd64.deb) · [rpm](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1615/Viktor-0.1.1615-1.x86_64.rpm) |
+| macOS (Apple Silicon) | [Viktor.dmg](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1957/Viktor_0.1.1957_aarch64.dmg) |
+| Windows (x64) | [Viktor setup.exe](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1957/Viktor_0.1.1957_x64-setup.exe) |
+| Linux | [AppImage](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1957/Viktor_0.1.1957_amd64.AppImage) · [deb](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1957/Viktor_0.1.1957_amd64.deb) · [rpm](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.1957/Viktor-0.1.1957-1.x86_64.rpm) |
 
 After installing, the app keeps itself up to date — macOS, Windows, and the Linux AppImage self-update; deb/rpm installs do not.
 
