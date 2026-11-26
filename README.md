@@ -2,16 +2,16 @@
 
 This repository hosts release artifacts only (GitHub Releases); no source code lives here.
 
-Current version: **0.1.4508**, published 2026-11-25 21:28 UTC from [`zetalabs-ai/zeta`](https://github.com/zetalabs-ai/zeta) run [#4508](https://github.com/zetalabs-ai/zeta/actions/runs/45700770427).
+Current version: **0.1.4627**, published 2026-11-26 13:03 UTC from [`zetalabs-ai/zeta`](https://github.com/zetalabs-ai/zeta) run [#4627](https://github.com/zetalabs-ai/zeta/actions/runs/45822927288).
 
 ## Install
 
 | Platform | Download |
 | --- | --- |
-| macOS (Apple Silicon) | [Viktor.dmg](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4508/Viktor_0.1.4508_aarch64.dmg) |
-| macOS (Intel) | [Viktor.dmg](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4508/Viktor_0.1.4508_x64.dmg) |
-| Windows (x64) | [Viktor setup.exe](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4508/Viktor_0.1.4508_x64-setup.exe) |
-| Linux | [AppImage](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4508/Viktor_0.1.4508_amd64.AppImage) · [deb](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4508/Viktor_0.1.4508_amd64.deb) · [rpm](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4508/Viktor-0.1.4508-1.x86_64.rpm) |
+| macOS (Apple Silicon) | [Viktor.dmg](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4627/Viktor_0.1.4627_aarch64.dmg) |
+| macOS (Intel) | [Viktor.dmg](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4627/Viktor_0.1.4627_x64.dmg) |
+| Windows (x64) | [Viktor setup.exe](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4627/Viktor_0.1.4627_x64-setup.exe) |
+| Linux | [AppImage](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4627/Viktor_0.1.4627_amd64.AppImage) · [deb](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4627/Viktor_0.1.4627_amd64.deb) · [rpm](https://github.com/zetalabs-ai/viktor-desktop-releases/releases/download/desktop-v0.1.4627/Viktor-0.1.4627-1.x86_64.rpm) |
 
 After installing, the app keeps itself up to date — macOS, Windows, and the Linux AppImage and deb self-update; rpm installs do not.
 
